@@ -1,0 +1,60 @@
+2023-07-26 10:58:55,594 - ERROR - Folder 'folder_name_1' not found in the predefined location.
+2023-07-26 10:58:55,594 - ERROR - Folder 'folder_name_2' not found in the predefined location.
+2023-07-26 10:59:07,561 - ERROR - Folder 'folder_name_1' not found in the predefined location.
+2023-07-26 10:59:07,561 - ERROR - Folder 'folder_name_2' not found in the predefined location.
+2023-07-26 10:59:35,908 - INFO - Checking files in folder: folder_name_1
+2023-07-26 10:59:35,908 - INFO - File 'filename_1.txt' is present in folder 'folder_name_1'.
+2023-07-26 10:59:35,908 - INFO - File 'filename_2.txt' is present in folder 'folder_name_1'.
+2023-07-26 10:59:35,908 - INFO - Checking files in folder: folder_name_2
+2023-07-26 10:59:35,908 - INFO - File 'filename_1.txt' is present in folder 'folder_name_2'.
+2023-07-26 10:59:35,908 - INFO - File 'filename_2.txt' is present in folder 'folder_name_2'.
+2023-07-26 10:59:35,908 - INFO - File 'filename_3.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:00:37,329 - INFO - Checking files in folder: folder_name_1
+2023-07-26 11:00:37,329 - INFO - File 'filename_1.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:00:37,329 - INFO - File 'filename_2.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:00:37,329 - INFO - Checking files in folder: folder_name_2
+2023-07-26 11:00:37,329 - INFO - File 'filename_1.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:00:37,329 - INFO - File 'filename_2.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:00:37,329 - INFO - File 'filename_3.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:01:15,472 - INFO - Checking files in folder: folder_name_1
+2023-07-26 11:01:15,472 - INFO - File 'filename_1.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:01:15,472 - INFO - File 'filename_2.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:01:15,472 - INFO - Checking files in folder: folder_name_2
+2023-07-26 11:01:15,472 - INFO - File 'filename_1.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:01:15,472 - INFO - File 'filename_2.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:01:15,472 - INFO - File 'filename_3.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:09:43,401 - INFO - Checking files in folder: folder_name_1
+2023-07-26 11:09:43,402 - INFO - File 'filename_1.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:09:43,402 - INFO - File 'filename_2.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:09:43,402 - INFO - Checking files in folder: folder_name_2
+2023-07-26 11:09:43,402 - INFO - File 'filename_1.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:09:43,402 - INFO - File 'filename_2.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:09:43,402 - INFO - File 'filename_3.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:09:50,501 - INFO - Checking files in folder: folder_name_1
+2023-07-26 11:09:50,501 - INFO - File 'filename_1.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:09:50,501 - INFO - File 'filename_2.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:09:50,501 - INFO - Checking files in folder: folder_name_2
+2023-07-26 11:09:50,501 - INFO - File 'filename_1.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:09:50,501 - INFO - File 'filename_2.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:09:50,501 - INFO - File 'filename_3.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:10:28,330 - INFO - Checking files in folder: folder_name_1
+2023-07-26 11:10:28,330 - INFO - File 'filename_1.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:10:28,330 - INFO - File 'filename_2.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:10:28,330 - INFO - Checking files in folder: folder_name_2
+2023-07-26 11:10:28,330 - INFO - File 'filename_1.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:10:28,330 - INFO - File 'filename_2.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:10:28,330 - INFO - File 'filename_3.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:10:33,927 - INFO - Checking files in folder: folder_name_1
+2023-07-26 11:10:33,927 - INFO - File 'filename_1.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:10:33,927 - INFO - File 'filename_2.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:10:33,927 - INFO - Checking files in folder: folder_name_2
+2023-07-26 11:10:33,927 - INFO - File 'filename_1.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:10:33,927 - INFO - File 'filename_2.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:10:33,927 - INFO - File 'filename_3.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:12:02,374 - INFO - Checking files in folder: folder_name_1
+2023-07-26 11:12:02,374 - INFO - File 'filename_1.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:12:02,374 - INFO - File 'filename_2.txt' is present in folder 'folder_name_1'.
+2023-07-26 11:12:02,374 - INFO - Checking files in folder: folder_name_2
+2023-07-26 11:12:02,374 - INFO - File 'filename_1.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:12:02,374 - INFO - File 'filename_2.txt' is present in folder 'folder_name_2'.
+2023-07-26 11:12:02,374 - INFO - File 'filename_3.txt' is present in folder 'folder_name_2'.

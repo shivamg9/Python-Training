@@ -1,0 +1,4 @@
+{
+    "folder_name_1": ["filename_1.txt", "filename_2.txt"],
+    "folder_name_2": ["filename_1.txt", "filename_2.txt", "filename_3.txt"]
+}
